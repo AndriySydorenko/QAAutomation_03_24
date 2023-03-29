@@ -22,7 +22,7 @@ public class Main {
                 sum += array[i];
             }
 
-            if (array[i] >= 0 && array[i] % 2 == 0){
+            if (array[i] > 0 && array[i] % 2 == 0){
                 System.out.print(array[i] + ", ");
             }
         }
