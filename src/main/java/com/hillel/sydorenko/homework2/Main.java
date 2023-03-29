@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Масив: ");
         System.out.println(Arrays.toString(array));
         System.out.println();
-        System.out.println("Цілі пизитивні елеметни масиву: ");
+        System.out.println("Цілі пизитивні елеменnи масиву: ");
         for (int i = 0; i < array.length; i++) {
             if (array[i] > 5 && array[i] < 45) {
                 sum += array[i];
