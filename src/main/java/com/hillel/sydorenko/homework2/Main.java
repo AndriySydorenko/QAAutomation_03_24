@@ -30,5 +30,6 @@ public class Main {
         System.out.println();
         System.out.println("Сумма всіх елементів масиву які більше 5 та менше 45: "  + sum);
 
+
     }
 }
